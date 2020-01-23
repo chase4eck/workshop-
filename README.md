@@ -1,8 +1,8 @@
-# Workshop!
+## Workshop!
 
 Chase Eck
 
-## Informal responses
+### Informal responses
 
 1. Blumestock (Jan. 28)
 2. ...
