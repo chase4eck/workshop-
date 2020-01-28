@@ -16,5 +16,6 @@ Chase Eck
   - Inherent nature of problems
 - Selected LMIC or Region
 - Dimension of Human Development
+> Need 4 sources
 
 2. Literature Review
