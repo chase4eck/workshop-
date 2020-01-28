@@ -2,7 +2,7 @@
 
 Chase Eck
 
-### Informal responses
+### Informal Responses to Readings
 
 1. Blumestock (Jan. 28)
 2. ...
