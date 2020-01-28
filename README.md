@@ -4,7 +4,7 @@ Chase Eck
 
 ### Informal Responses to Readings
 
-1. Blumestock (Jan. 28) https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf
+1. Blumestock (Jan. 28) [https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf]
 2. ...
 
 ### Formal Papers
