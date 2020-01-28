@@ -22,3 +22,18 @@ While I agree that transparency in data science is the problem, I would also arg
 
 The idea of the "balancing act" challenges the use of data science for human development. While everyone gets so excited to use big data for these new projects, they tend to forget the side effects it may have. Blumenstock explores this idea on page two of his article "Don't forget people in the use of big data for development". In addition, this balancing act seems to be rather low on the totem pole of some data scientists' worries. For example, small startups, such as those in Silicon Valley, tend to focus on securing funding and using these investments to lead to more profits. Therein lies the problem. Before a small startup can focus its efforts on helping those in need, they must first secure their place in the Valley, by scoring a consistent flow of revenue. Once the money really starts flowing, it can take over the startup's initial focus and become the number one priority. The effect that this has on the use of data science for human development is that the wealthier countries are profitting more than those countries that are crying out for help.
 
+
+## Class Notes:
+
+### What is Big Data?
+- Call Detail Record (CDR): everytime we use our phones, these actions are recorded and mined for information
+  - Time: proxy of income
+  - Who these calls/texts go to
+  - Location
+  - Together, these provide a dynamic description of every cell phone user.
+- Satellites
+  - Recording time and location (dynamic)
+  - Remotely sensed data (raster images)
+  
+
+### What is Machine Learning?
