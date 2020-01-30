@@ -4,9 +4,8 @@ Chase Eck
 
 ### Informal Responses to Readings
 
-1. [Blumenstock Article](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf) (Jan. 28) [Blumenstock Response](https://github.com/chase4eck/workshop-/blob/master/blumenstock.md)
+1. [Blumenstock Article](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf) (Jan. 28) [Blumenstock Response](https://chase4eck.github.io/workshop-/blumenstock)
 
-2. [Webpage](https://chase4eck.github.io/workshop-/blumenstock)
 
 ### Formal Papers
 
