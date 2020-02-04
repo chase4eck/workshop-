@@ -1,6 +1,6 @@
 ## Workshop!
 
-Chase Eck
+### [Class Notes](https://chase4eck.github.io/workshop-/Class_Notes)
 
 ### Informal Responses to Readings
 
@@ -19,3 +19,5 @@ Chase Eck
 > Need 4 sources
 
 2. Literature Review
+
+
