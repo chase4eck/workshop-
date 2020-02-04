@@ -9,14 +9,14 @@
 
 ### Formal Papers
 
-1. Annotated Bibliography
+1. [Annotated Bibliography](https://chase4eck.github.io/workshop-/annotated_bib)
 - Problem Statement
   - Harms
   - Significance of those harms
   - Inherent nature of problems
 - Selected LMIC or Region
 - Dimension of Human Development
-> Need 4 sources
+
 
 2. Literature Review
 
