@@ -32,3 +32,24 @@
 - "The improvement of the world must be highly contextualized." - 14:44
   - Need more detail on a regional level.
 - Gapminder: used to connect big data/ databases to visual representations for public access.
+
+
+## High Resolution Global Gridded Data for Use in Population Studies
+- Using non-spatial population data to transfer census data into grid-cell data
+  - GRUMP uses this data along w/ satellite info to build its dataset
+- There are four ‘base’ standardised 100 m tiled datasets and 30 arc-second global mosaic derivations
+  - 30 arc-second global mosaic derivations = 1km datasets
+- Some useful info:
+  - Base dataset creation involves processing raster topography data with vector country boundary data using a Geographical Information System (GIS) and other geospatial software. Raster images consist of a grid of pixels of particular size (spatial resolution), each pixel having a discrete (x,y) location and value. Raster images are commonly used in GIS applications, where they can represent digital elevation or terrain models of the Earth’s surface (i.e., topography). Vector datasets represent data slightly differently, utilising points (or nodes), and (in turn) lines and polygons, to represent (x,y) positions in space. Vector data can be assigned attribute information where required, and are well suited to representing boundary data.
+- Four 100 m resolution datasets form the basis of the archive:
+  1. Topography
+  2. Standardised
+  3. Gridded
+  4. Clipped to country coastal boundaries
+  - These create a resolution of 1 km and tiles of 100 m
+#### There's a lot of math and computing involved in transferring this data into grid cells that I do not understand
+- Each grid can be separated into a stack of layers to better understand how the data is making up that tile
+- Some examples of layers:
+  - Precipitation, land-slope, nightlights, population count, population density, water, land cover
+- These layers come from a multitude of data-sites
+  - For example, OSM (open street map) provides the majority of info about streets, waterways, railroads, and airports
