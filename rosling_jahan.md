@@ -26,3 +26,9 @@ Free will is an inherent gift as well as curse. Free will itself is power, and p
 Rosling explains how the focus of data science for human development must be on the people, not the country. Towards the end of his TED Talk, he discusses this idea with relation to interpretting averages. By expanding a country into smaller regions, Rosling shows how large of a distribution there is relating to wealth. For example, he splits Africa up into its countries; they then reveal how there are some countries in Africa that seek aid, while others are more of a vacation destination. The problem with using averages is that Africa as a whole is neither poverty stricken nor rich: it's a mixture of both. The moral of the story here is that you cannot classify a continent, country, or even province as a whole; you must look at the people. This is why human development makes use of big data: there are a lot of people in the world, so there's a lot of data. Jahan discusses how its impossible to accurately measure every aspect of humanity, though the HDI attempts to. Another theme that Jahan and Rosling would agree on is the priority of health over wealth.
 
 Rosling made a big deal of public health as a top priority. Jahan touches on how . In a nutshell, he argues that a country can develop much faster if it is healthy first than if it is wealthy. The example that he applies this to is the comparison of child survivability and family income. Though these two things are directly proportional, Rosling demonstrated how an increase in income leads to a slow rise in survivability. 
+
+
+### Sources:
+[Blumenstock - Don’t forget people in the use of big data for development](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
+[Jahan - What is Human Development?](https://soundcloud.com/hdro-web/what-is-human-development)
+[Jahan - What is Human Development? continued](https://soundcloud.com/hdro-web/hdr2015theme)
