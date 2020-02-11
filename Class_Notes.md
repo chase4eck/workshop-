@@ -85,10 +85,29 @@
   - Freedom allows people to have a greater impact on society & even the world
 - Sen uses the term agent as someone who brings about change and who has their own set of values and objectives that they strive to achieve
 - Sen considers how unemployment is not just the loss of income; it's also social exclusion, loss of self-reliance & self-confidence, and psychological/ physical health
+- There is a large variation between the survival rates of white males in the US and black males in the US.
+  - Black males in the US suffer from 'relative' deprivation, compared to the white males
+- Economic deprivations occur when the people lose what the market has to offer, such as lucrative opportunities
+- Individual freedoms are a social product; they are a relation between social arrangements to expand individual freedoms and 
+  - On top of these ideas, Sen highlights the importance of participation
+- This also plays into the idea of participation in tradition, which leads to the discussion of mandatory participation vs. freedom
+- There are 2 general attitudes concerning development
+  1. Development as a 'fierce' process - w/ blood, sweat, and tears
+  2. Development as a 'friendly' process - w/ focus on beneficial exchanges
+- Primary end of development: expansion of freedoms
+  - This is also the principle mean of development
+  - Constitutive role: freedom enriching one's life; avoiding basic deprivations (ex. starvation); also primary end
+  - Instrumental role: principal means
+- Instrumental freedoms play an instrumental role in advancing the economy
+1. Political freedoms: giving the people power in politics
+2. Economic facilities: opportunities of the people to use economic resources
+3. Social opportunities: arrangements that society makes for education, health care, etc.
+4. Transparency guarentees: the openness of the people; a general trust throughout the society
+5. Protective security: social safety net (ex. collecting unemployment)
+- Each of these instrumental freedoms complement each other and lead to development (as the increase of freedoms)
+  - Many also lead to economic growth indirectly
+- Sen explains how economic growth does NOT equal development; he backs this up with data that shows no correlation between life expectancy and GNP per capita
 - 
-
-
-
 
 
 
