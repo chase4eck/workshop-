@@ -85,6 +85,7 @@
   - Freedom allows people to have a greater impact on society & even the world
 - Sen uses the term agent as someone who brings about change and who has their own set of values and objectives that they strive to achieve
 - Sen considers how unemployment is not just the loss of income; it's also social exclusion, loss of self-reliance & self-confidence, and psychological/ physical health
+  - Inhibiting agency
 - There is a large variation between the survival rates of white males in the US and black males in the US.
   - Black males in the US suffer from 'relative' deprivation, compared to the white males
 - Economic deprivations occur when the people lose what the market has to offer, such as lucrative opportunities
@@ -93,7 +94,7 @@
 - This also plays into the idea of participation in tradition, which leads to the discussion of mandatory participation vs. freedom
 - There are 2 general attitudes concerning development
   1. Development as a 'fierce' process - w/ blood, sweat, and tears
-  2. Development as a 'friendly' process - w/ focus on beneficial exchanges
+  2. Development as a 'friendly' process - w/ focus on beneficial exchanges (social safety nets, political liberties, etc.)
 - Primary end of development: expansion of freedoms
   - This is also the principle mean of development
   - Constitutive role: freedom enriching one's life; avoiding basic deprivations (ex. starvation); also primary end
@@ -107,7 +108,11 @@
 - Each of these instrumental freedoms complement each other and lead to development (as the increase of freedoms)
   - Many also lead to economic growth indirectly
 - Sen explains how economic growth does NOT equal development; he backs this up with data that shows no correlation between life expectancy and GNP per capita
-- 
+- China v. India
+  - China is ahead of India in terms of using the market economy
+    - Began focusing on literacy and other social reforms
+    - Though they did experience famine, unlike India, since India was a democracy
+- Two world wars lead to a more nurturing economy in Britain; led to mortality reduction
 
 
 
