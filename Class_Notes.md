@@ -53,3 +53,43 @@
   - Precipitation, land-slope, nightlights, population count, population density, water, land cover
 - These layers come from a multitude of data-sites
   - For example, OSM (open street map) provides the majority of info about streets, waterways, railroads, and airports
+
+
+
+## Development as Freedom (Amartya Sen)
+- Development: the process of expanding peoples' freedoms
+  - Similarly, development requires the removal sources of 'unfreedom'
+    - Such as tyranny, poverty, intolerance, repression, etc.
+- 2 reasons freedom is central to the process of development
+  - The evaluative reason: progress should be considered the enhancement of freedoms
+  - The effectiveness reason: achievement of development is thoroughly based on the free agency of the people
+- The freedom to interchange words, gifts, and goods leads to a free market
+  - This freedom "has a basic role in social living" (Sen 7).
+  - Anectdote about Kader Mia emphasizes how his economic unfreedom lead to his death.
+    - Went looking for work in a hostile area; knifed in the back
+  - "Economic unfreedom can breed social unfreedom" (Sen 8).
+- 5 types of freedoms:
+1. Political freedoms
+2. Economic facilities
+3. Social opportunities
+4. Transparency guarentees
+5. Protective security
+  - Each of these serve to increase the general capabilities of the people
+  - These freedoms must be considered together, as a group
+- "Wealth is evidently not the good we are seeking; for it is merely useful and for the sake of something else." (Aristotle)
+  - Economic growth can not be treated as an end; development is more about expanding our freedoms
+- There is a very evident connection between authoritarian rule and famine
+  - Example with North Korean & Sudan being "famine-leauge"
+- When talking about freedom, we must consider both the processes that allow freedom and the opportunities that people have.
+- Sen highlights the importance of having the freedom to do things that one values in order to have valuable outcomes.
+  - Freedom allows people to have a greater impact on society & even the world
+- Sen uses the term agent as someone who brings about change and who has their own set of values and objectives that they strive to achieve
+- Sen considers how unemployment is not just the loss of income; it's also social exclusion, loss of self-reliance & self-confidence, and psychological/ physical health
+- 
+
+
+
+
+
+
+
