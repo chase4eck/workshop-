@@ -1,3 +1,5 @@
+[Return to home](https://chase4eck.github.io/workshop-/)
+
 # Annotated Bibliography
 
 Chase Eck
