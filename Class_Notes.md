@@ -116,4 +116,21 @@
 
 
 
-
+## Spatially Disaggregated Population Estimates
+- Accurate population data at the local level is essential for government & nongovernmental organizations
+  - Ironically, those places that could benefit the most from this info are the regions that lack the ability to collect this data
+- One recent solution is the use of high-spatial resolution estimates of population data (i.e. using satellites)
+- Top-down census disaggregation -> grid cells
+  - These grid cells are only as accurate as the census data they're based off of
+    - This data is not accurate in regions of vast migration
+    - It also takes stability and a large amount of resources for a census
+- There are many examples of countries that have not had a census since the 70's due to political instability or civil unrest
+  - For example, both Madagascar and the Democratic Republic of Congo continues to postpone a much needed census
+- Some countries are implementing "microcensus surveys" which are then linked with spatial data to provide a much cheaper alternative to a full-country census
+  - This is considered bottom-up style
+  - To improve the accuracy of this data, other sources of info are being incorporated, such as satellite imaging, weather patterns, age of community, distance to roads, etc.
+  - Makes use of georeferencing of the areas where population data has been aquired
+- Though this data is rarely validated, many people make use of R^2 values in order to indicate the precision & accuracy of the data collected
+- Bottom-up population estimation is the future of population data: it provides a cheaper alternative to a full-on census
+  - For countries in Africa, it was estimated that a census costs about $1-$2 per person
+  - Nigeria & Afghanistan used the bottom-up approach and estimated the cost to be about $0.03-$0.15 per person
