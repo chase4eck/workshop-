@@ -134,3 +134,14 @@
 - Bottom-up population estimation is the future of population data: it provides a cheaper alternative to a full-on census
   - For countries in Africa, it was estimated that a census costs about $1-$2 per person
   - Nigeria & Afghanistan used the bottom-up approach and estimated the cost to be about $0.03-$0.15 per person
+
+
+
+## Mapping road network communities for guiding disease surveillance and control strategies
+- Global transportation has reached a dangerous point of a development that allows for the spread of disease with ease.
+  - It has also helped lead to more global drug resistance
+- Consider how the following factors can affect the spread of disease:
+  - Population density, amount of road connections, public transportation
+- African Road Network (ARN) is the more complete source of data for Africa, rather than one of the open sources (such as OSM)
+- Hubs have plenty of nodes connected to them
+- 
