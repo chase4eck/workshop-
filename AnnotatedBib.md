@@ -2,7 +2,7 @@
 
 # Annotated Bibliography
 
-# An Investigation into the Development of Disaster Preparedness in Fiji
+## An Investigation into the Development of Disaster Preparedness in Fiji
 
 Chase Eck
 
@@ -14,9 +14,9 @@ Fiji has a harsh history when it comes to natural disasters, specifically epidem
 
 ## Sources:
 
-1.  ADRC. “Characteristics of Disasters in Oceania.” ADRC Asia, 2002,		 
+1.  ADRC. “Characteristics of Disasters in Oceania.” ADRC Asia, 2002, www.adrc.asia/publications/databook/ORG/databook_2002_eng/3_2_5.pdf 
 
-2.  UNDRR, ADPC. "Disaster Risk Reduction in the Republic of Fiji." UNDRR, July 2019,
+2.  UNDRR, ADPC. "Disaster Risk Reduction in the Republic of Fiji." UNDRR, July 2019, https://www.unisdr.org/files/68251_682302fijirevised16oct2019.pdf
 
 3.  Save the Children's Resource Centre. “Key Messages for Disaster Risk Reduction And Resilience in Fiji: A Guide For Public Education & Awareness.” *UNISDR*, Humanitarian Aid and Civil Protections, 2016 https://resourcecentre.savethechildren.net/node/12396/pdf/key-messages_booklet_drr_fiji_2016.pdf
 
@@ -26,7 +26,7 @@ Fiji has a harsh history when it comes to natural disasters, specifically epidem
 
 
 
-## ADRC. “Characteristics of Disasters in Oceania.” ADRC Asia, 2002,   www.adrc.asia/publications/databook/ORG/databook_2002_eng/3_2_5.pdf](http://www.adrc.asia/publications/databook/ORG/databook_2002_eng/3_2_5.pdf).
+## ADRC. “Characteristics of Disasters in Oceania.” ADRC Asia, 2002,
 
 <u>Summary</u>: This article describes the patterns of natural disasters that occur in or near Oceania. The Asian Disaster Reduction Center is in charge of disaster risk reduction (DRR) for the Oceania islands. They have compiled the following data regarding the disaster trends of this region. Oceania experiences just about every type of natural disaster, however a few are far more prevalent. For example, they experience windstorms and earthquakes the most. Though these disasters are more numerous, other disasters have had larger impacts on the people of Oceania, such as epidemics, which accounted for 61% of deaths due to disaster in 2002. The two disasters that affect totally affect people involve windstorms and volcanoes. The most numerous disaster has been epidemics.
 
@@ -38,7 +38,7 @@ Fiji has a harsh history when it comes to natural disasters, specifically epidem
 
 
 
-## UNDRR, ADPC. "Disaster Risk Reduction in the Republic of Fiji." UNDRR, July 2019, https://www.unisdr.org/files/68251_682302fijirevised16oct2019.pdf
+## UNDRR, ADPC. "Disaster Risk Reduction in the Republic of Fiji." UNDRR, July 2019, 
 
 <u>Summary:</u> The UNDRR essentially outlines the progress of disaster-preparedness, the challenges, their recommendations, and their goals for the Republic of Fiji in this report. The article outlines how the country reacts to certain disasters. The focus here is on epidemic/pandemic response. Fiji has developed a "National Notifiable Disease Surveillance," (UNDRR 16) which helps to track certain epidemics. According to this article, Fiji places quite high (20) on the Climate Risk Index.
 
@@ -52,7 +52,7 @@ The socio-economic effects of disaster on Fiji are extensive and rippling. The c
 
 
 
-## Save the Children's Resource Centre. “Key Messages for Disaster Risk Reduction And Resilience in Fiji: A Guide For Public Education & Awareness.” *UNISDR*, Humanitarian Aid and Civil Protections, 2016, https://resourcecentre.savethechildren.net/node/12396/pdf/key-messages_booklet_drr_fiji_2016.pdf
+## Save the Children's Resource Centre. “Key Messages for Disaster Risk Reduction And Resilience in Fiji: A Guide For Public Education & Awareness.” *UNISDR*, Humanitarian Aid and Civil Protections, 2016, 
 
 <u>Summary:</u> This source outlines how one should prepare for disaster, how one should react to disaster, and what they should expect from disaster. It explains the specifics for each of the following disasters: drought, earthquakes, floods, pandemics, tropical cyclones, wildfires, infestations, landslides, tsunamis, and storm surges. Fiji Red Cross also lays out a plan to store rations, provide first aid, and to communicate with the community. This guide also touches on some past examples of these disasters.
 
@@ -64,7 +64,7 @@ The socio-economic effects of disaster on Fiji are extensive and rippling. The c
 
 
 
-## Rubella Initiative. “Fiji and Measles: from Devastation to Elimination.” *Measles & Rubella Initiative*, American Red Cross, 16 Jan. 2017, measlesrubellainitiative.org/fiji-and-measles-from-devastation-to-elimination/.
+## Rubella Initiative. “Fiji and Measles: from Devastation to Elimination.” *Measles & Rubella Initiative*, American Red Cross, 16 Jan. 2017,
 
 <u>Summary:</u> This article talks about Fiji's past experience with one epidemic in particular: the measles. The Measles and Rubella Initiative aims at completely eradicating this threat entirely from Fiji. It was started in response to the vast outbreak that occurred there in 1875. The article begins with a statement that is guarenteed to raise some eyebrows: "In 1875 Fijians buried one-third of their population – all dead as a result of measles," (Rubella Initiative). 
 
@@ -74,7 +74,7 @@ The article begins by giving a brief history of the epidemic: measles was carrie
 
 
 
-## Getahun, Aneley, et al. “Dengue in Fiji: Epidemiology of the 2014 DENV-3 Outbreak.” *World Health Organization*, World Health Organization, Apr. 2019, ojs.wpro.who.int/ojs/index.php/wpsar/article/view/652/921.
+## Getahun, Aneley, et al. “Dengue in Fiji: Epidemiology of the 2014 DENV-3 Outbreak.” *World Health Organization*, World Health Organization, Apr. 2019,
 
 <u>Summary:</u> This article delves into the dengue virus serotype-3 outbreak in 2013-2014. There were 2848 confirmed cases in males, with 2373 more cases in females. The most affected age group was 15-24 year olds, and the virus had its largest spread in central, urban Fiji. Overall mortality was predicted to be 5.5 deaths per 100,000 people. Though this is not a particularly large number, some other regions had closer to 8 deaths per 100,000 people. 
 
