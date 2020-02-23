@@ -10,7 +10,7 @@
 
 ### Formal Papers
 
-1. [Annotated Bibliography](https://chase4eck.github.io/workshop-/annotated_bib)
+1. [Annotated Bibliography](https://chase4eck.github.io/workshop-/AnnotatedBib)
 - Problem Statement
   - Harms
   - Significance of those harms
