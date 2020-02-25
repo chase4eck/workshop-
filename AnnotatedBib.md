@@ -15,15 +15,19 @@ Fiji has a harsh history when it comes to natural disasters, specifically epidem
 ## Sources:
 
 1.  ADRC. “Characteristics of Disasters in Oceania.” ADRC Asia, 2002, www.adrc.asia/publications/databook/ORG/databook_2002_eng/3_2_5.pdf 
+[Characteristics of Disasters in Oceania](www.adrc.asia/publications/databook/ORG/databook_2002_eng/3_2_5.pdf)
 
 2.  UNDRR, ADPC. "Disaster Risk Reduction in the Republic of Fiji." UNDRR, July 2019, https://www.unisdr.org/files/68251_682302fijirevised16oct2019.pdf
+[Disaster Risk Reduction in the Republic of Fiji](https://www.unisdr.org/files/68251_682302fijirevised16oct2019.pdf)
 
 3.  Save the Children's Resource Centre. “Key Messages for Disaster Risk Reduction And Resilience in Fiji: A Guide For Public Education & Awareness.” *UNISDR*, Humanitarian Aid and Civil Protections, 2016 https://resourcecentre.savethechildren.net/node/12396/pdf/key-messages_booklet_drr_fiji_2016.pdf
+[Key Messages for Disaster Risk Reduction And Resilience in Fiji: A Guide For Public Education & Awareness](https://resourcecentre.savethechildren.net/node/12396/pdf/key-messages_booklet_drr_fiji_2016.pdf)
 
 4.  Rubella Initiative. “Fiji and Measles: from Devastation to Elimination.” *Measles & Rubella Initiative*, American Red Cross, 16 Jan. 2017, measlesrubellainitiative.org/fiji-and-measles-from-devastation-to-elimination/.
+[Fiji and Measles: from Devastation to Elimination](measlesrubellainitiative.org/fiji-and-measles-from-devastation-to-elimination/)
 
 5. Getahun, Aneley, et al. “Dengue in Fiji: Epidemiology of the 2014 DENV-3 Outbreak.” *World Health Organization*, World Health Organization, Apr. 2019, ojs.wpro.who.int/ojs/index.php/wpsar/article/view/652/921.
-
+[Dengue in Fiji: Epidemiology of the 2014 DENV-3 Outbreak](ojs.wpro.who.int/ojs/index.php/wpsar/article/view/652/921)
 
 
 ## ADRC. “Characteristics of Disasters in Oceania.” ADRC Asia, 2002,
