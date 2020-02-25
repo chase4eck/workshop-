@@ -144,4 +144,43 @@
   - Population density, amount of road connections, public transportation
 - African Road Network (ARN) is the more complete source of data for Africa, rather than one of the open sources (such as OSM)
 - Hubs have plenty of nodes connected to them
-- 
+
+
+
+## The End of Theory: The Data Deluge Makes the Scientific Method Obsolete
+- The "petabyte age": the futuristic time period where big data will be measured in petabytes (1 petabyte = 1024 terabytes)
+  - This massive level of info will be stored in the cloud
+- "For instance, Google conquered the advertising world with nothing more than applied mathematics. It didn't pretend to know anything about the culture and conventions of advertising — it just assumed that better data, with better analytical tools, would win the day. And Google was right" (Chris Anderson).
+- Currently, scientists use the scientific method (hypotheses, experiment) as well as considering how correlation is NOT causation
+  - However, some hypotheses are unable to be put to the test without a ridiculous amount of computing power
+    - Though this may soon change with the development of quantum computing
+- This same shift is occuring in the world of biology: new hypothese are made that are unable to be tested due to cost
+- Now, with the use of petabytes of data, we can say "Correlation is enough".
+- J. Craig Venter has been making use of supercomputers and big data to discover tons of new life-forms by sequencing the genes found in the air around the ocean.
+  - The evidence of these new life forms is simply a "statistical blip", however this is enough
+- In conclusion, by using the same science that Google uses, we can make more discoveries
+
+
+## Big Data, New Epistemologies and Paradigm Shifts
+- One classic problem w/ big data is that these large quantities of data sometimes cannot be fit into one spreadsheet, or even into one computer
+  - Think about this: 1 petabyte of data is 1024 terabytes is 1 x10^6 gigabytes. Most computers have between 500 gb to one tb of storage.
+- There are other problems with big data nowadays: it's high in velocity, diverse in variety, and it's exhaustive by covering entire populations
+- Big data is also *continuously* being collected (e.g. website clicks, retail sales, transactions, phone records)
+  - Walmart collected 2.5 petabytes of data every *hour* in 2012; this number is likely even larger today
+- "The challenge of analysing Big Data is coping with abundance, exhaustivity and variety, timeliness and dynamism, messiness and uncertainty, high relationality, and the fact that much of what is generated has no specific question in mind or is a by-product of another activity," (Rob Kitchin).
+  - Machine learning is one modern-day solution, through the use of computing power to discover
+- Modern day paradigm: exploratory science, data-intensive; statistical exploration and data mining
+- "Correlation supersedes causation, and science can advance even without coherent models, unified theories, or really any mechanistic explanation at all," (Kitchin).
+- The beauty of this new approach is that scientists no longer need to devise a hypothesis before collecting data; the data itself tends to reveal new information (that often the scientists did not even know they were looking for)
+- Example: Amazon uses its large computing power to discover patterns in online shopping; this is why their "other recommendations" are typically pretty spot-on
+  - Another strength that comes from this approach is that the computer may recognize a pattern that a human observer could not
+- Abductive logic: starts w/ an observation, tries to find a way to explain it
+- Empiricial logic: conducting an investigation that relies upon experimentation and systematic observation rather than theoretical speculation
+- Data-driven science will lead to the integration of many sources of data to create a real-time picture of the situation
+  - A scientist may look at a plethora of sources at once and discover a connection between all
+- One problem w/ this new method is that pieces of literature cannot accurately convey the messages from literature as raw data
+  - Big data has trouble encapsulating and measuring the value of all forms of art
+  - In the same way, it's nearly impossible to define a society through data/ numbers
+    - Sometimes a quantitative approach is simply not appropriate
+  - Humans are too complex to be reduced to a set of numbers, no matter the size of the data
+- Post-positivism: theories, background, knowledge and values of the researcher can influence what is observed
