@@ -184,3 +184,20 @@
     - Sometimes a quantitative approach is simply not appropriate
   - Humans are too complex to be reduced to a set of numbers, no matter the size of the data
 - Post-positivism: theories, background, knowledge and values of the researcher can influence what is observed
+
+
+
+## A spatial database of health facilities managed by the public health sector in sub Saharan Africa
+- The location of health facilities is crucial to developing a solid health system
+  - These life-saving facilities must be accesible to all corners of society
+- Sub Saharan Africa lacks the data that is typically used to make these facilities the most accessible
+  - This relates to the optimization of health care
+  - This data would also make the management of epidemics much easier
+- To fix this problem, this group of data scientists gathered some data to be applied to this problem
+  - They collected public data, cleaned said data, geocoded it, and validated said data with other technology
+  - Some data was unable to be reached through technology, and so they had to rely on in-country contacts and personal communication
+  - Some countries had *no* data whatsoever
+- Due to the difficulty of data collection about the private sector of health care, they were forced to rely on their data collected about the public health care sector
+  - "In total, 98,745 public health facilities were assembled for 50 countries in sub Saharan Africa."
+- The process of "data cleaning" involved the removal of duplicates, addition of missing entries, and just overall revisions/edits that were necessary to complete the full picture
+- 
