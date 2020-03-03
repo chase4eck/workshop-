@@ -218,10 +218,13 @@
 - A gold miner in Ghana makes significantly less than a gold miner in the USA
 - The people do not believe that the candidates will maintain their promises
 - Rawlings: a previous President of Ghana, NDC. He carries a certain military conscience that follows in suite of how he came about as president-- through the barrel of a gun
+  - He was initially a junior officer, revolted against the senior officer -> coup
   - However, Rawlings did set the foundation for democracy in Ghana
   - His VP was Atta Mills, who ran for president once Rawlings' term came to an end
-- In 2000, the NDC lost to the NPP -> 1st time power shifted due to an election
+- Runs in '92,
+- In 2000, the NDC John Atta Mills lost to the NPP John Kufuor -> 1st time power shifted due to an election
   - NDC fears that if they lose this (2008) election, their party may come to an end
+  - 2004 NPP wins again
 - Ghanians have to wait hours in line to vote -> this discourages them from voting and needs to change
 - Each vote is counted in public at the polling station, where the citizens can witness
   - Then, each of these numbers are aggregated into the total votes
