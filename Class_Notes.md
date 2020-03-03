@@ -200,4 +200,72 @@
 - Due to the difficulty of data collection about the private sector of health care, they were forced to rely on their data collected about the public health care sector
   - "In total, 98,745 public health facilities were assembled for 50 countries in sub Saharan Africa."
 - The process of "data cleaning" involved the removal of duplicates, addition of missing entries, and just overall revisions/edits that were necessary to complete the full picture
-- 
+
+
+
+## An African Elections: Ghana's Democracy in Action
+- NDC (National Democratic Congress)(progressive) vs. NPP (New Patriotic Party)(conservative)
+- Jobs are often offered by political affiliation
+  - One Ghanian recounts having to show his "party card" in order to get his job
+- Multi-party democracy was reinstated in 1992; this is the 5th election
+- This election focused on security, employment, and the accessibility of education
+- Nana Addo -> NPP; Atta Mills -> NDC
+- NDC is affiliated with the past 
+- Ghana was the first country to become an independent country in Africa
+- 3 previous republics, 5 previous military regimes
+- NPP ran on the basis of providing free education
+- "Are we going forward, or are we coming back?" - Nana Addo
+- A gold miner in Ghana makes significantly less than a gold miner in the USA
+- The people do not believe that the candidates will maintain their promises
+- Rawlings: a previous President of Ghana, NDC. He carries a certain military conscience that follows in suite of how he came about as president-- through the barrel of a gun
+  - However, Rawlings did set the foundation for democracy in Ghana
+  - His VP was Atta Mills, who ran for president once Rawlings' term came to an end
+- In 2000, the NDC lost to the NPP -> 1st time power shifted due to an election
+  - NDC fears that if they lose this (2008) election, their party may come to an end
+- Ghanians have to wait hours in line to vote -> this discourages them from voting and needs to change
+- Each vote is counted in public at the polling station, where the citizens can witness
+  - Then, each of these numbers are aggregated into the total votes
+- During the election, the government needs about 11,000 officials for the 21,000 polling stations
+  - It is impossible to vouch for 11,000 people's neutrality, though they are recruited carefully
+    - Instead, Ghana attempts to build integrity into the system
+- "Figures don't lie."
+- Both parties claim on TV that they have won the election before the results have been revealed/ counted
+  - This infuriates and confuses the public, and they begin to lose trust in the election
+- Since neither candidate received more than 50%, there is another election that takes place -> "runoff election"
+  - Candidate must receive 50 percent plus one majority vote
+  - Results of first election: Nana Addo (NPP): 49.13%; Atta Mills (NDC): 47.92%
+- Both parties begin campaigning again for the next election
+- Danger in Ghana: no impeachment, the president is essentially immune until the next election, which they can also control (to some extent)
+- Rawlings has a fear that the NPP will resort to violence or fraud to win the runoff election
+  - He even uses a call-to-action with the public, to "protect your ballot boxes" as if they were your family
+- Nana Addo also addresses his followers, saying that the NDC will use violence to win the election
+- "Macho men" use their appearance to scare the public away and control the voting booths
+- In the past, citizens have used motorbikes to steal ballot boxes
+  - Some NPP followers were stationed near the ballot boxes, causing much anxiety on top of the macho men
+  - Some boxes were claimed to be stolen and could not be found, leading to chaos
+    - This may not be true, and may be a political tool
+- NDC Atta Mills "won" the election
+  - There seems to be some interference with the results however
+  - There is much tension in the strong room
+  - Results were declared, then new results came in putting Nana Addo ahead
+- NDC is furious and ready to revolt
+- The election committee must do the right thing, otherwise there will be a coup
+- The government is afraid of the people taking to the streets, leading to a state of emergency
+- The Tain region could not participate in the runoff election due to "irregularities in voting"
+  - However, the election was close enough that these votes may have mattered
+  - Therefore, the election will take place in Tain; as of that moment, Atta Mills is in the lead
+- NDC Atta Mills once again is the winner of the election
+- Ghanians were able to come to a decision rather than leading to a civil war
+  - This sets a good democratic role model for the rest of Africa
+
+
+
+
+
+
+
+
+
+
+
+
