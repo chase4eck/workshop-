@@ -265,10 +265,26 @@
 
 
 
-
-
-
-
+## Examining the correlates and drivers of human population distributions across low- and middle-income countries
+- Humans can make a new environment both more or less suitable to live in.
+  - Creating more roads, developing jobs; polluting the surrounding area, desertification.
+- Africa & Asia currently experiencing a large push for urbanization: huge amounts of internal migration taking place.
+  - Demographic shifts like this will change population densities greatly.
+- Studying the different factors that may influence population density to understand it better.
+  - (i) What datasets, representing drivers and associated landscapes of population distribution, are the most informative for accurately mapping populations at global scales?
+  - (ii) What are the differences, in terms of relative importance of these datasets, between countries, between regions of countries and within regions of countries?
+- Random Forest models - machine learning technique combines weaker learners into strong learners; don't require much specification.
+- Also used census data to create a baseline for population numbers.
+- Predictive covariates: intensity of night time lights, energy productivity of plants, topographic elevation adn slope, climatic factors, land cover, roads, water features, human settlements, urban areas, protected areas, points of interest, and facilities.
+  - Used these factors to find a weighted importance rank (WIR)= within country ranked importance/total # country covariates
+    - 0 is highest importance, 1 is lowest
+- "The five most important covariate classes, in descending order of median importance, were urban/suburban extents (0.32), built environment and urban/suburban proxies (0.35), climatic/environmental variables (0.37), populated place covariates (0.42) and transportation networks (0.50)."
+- The majority of population growth is expected in these low and middle-income countries.
+- Estimated that 54% of the population lives in urbanized regions
+- Another important covariate is climate as well as elevation: population density tends to be higher at resource-rich, low elevation locations, where society can thrive.
+  - Also, it is seen that typically regions with a steep slope are not inhabited as much as other regions, likely due to the difficulty of building facilities on said slope.
+- One major problem with this reliance on covariate data is the unreliability of a census; the quality of a census drastically changes from country to country.
+- 
 
 
 
