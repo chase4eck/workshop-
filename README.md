@@ -21,7 +21,7 @@
 - Dimension of Human Development
 
 
-2. [Literature Review](https://chase4eck.github.io/workshop-/LitReview)
+2. [Literature Review](https://chase4eck.github.io/workshop-/Literature_Review)
 
 
 
