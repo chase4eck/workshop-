@@ -22,6 +22,7 @@
 
 
 2. [Literature Review](https://chase4eck.github.io/workshop-/Literature_Review)
+3. [Methodology Paper](https://chase4eck.github.io/workshop-/MethodologyPaper)
 
 
 
