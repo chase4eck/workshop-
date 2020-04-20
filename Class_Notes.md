@@ -312,6 +312,9 @@
 - Cops see Shaggy as he tries to escape in stolen car, doesn't make it into the car; Bernice dips.
   - Shaggy gets shot and killed (rip).
 - Li'l Dice -> Li'l Ze, a notorious, respected hoodlum who had a thirst to kill
+  - He took over the drug business, began selling coke
+  - Benny was his side man, coolest hood; opposite vibe of Li'l Ze
+  - Benny befriends Rocket's girl's ex
 
 
 
