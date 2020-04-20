@@ -284,7 +284,51 @@
 - Another important covariate is climate as well as elevation: population density tends to be higher at resource-rich, low elevation locations, where society can thrive.
   - Also, it is seen that typically regions with a steep slope are not inhabited as much as other regions, likely due to the difficulty of building facilities on said slope.
 - One major problem with this reliance on covariate data is the unreliability of a census; the quality of a census drastically changes from country to country.
-- 
+
+
+
+## City of God
+- Synopsis: Based on the novel by Paolo Lin about gangland violence in the slums of Rio in the 1960s and '70s. Shifting alliances result in a brutal gang war, which is documented on film by an amateur photographer.
+- "In the City of God, if you run, they get you, and if you stay, they get you too."
+- Rocket is the main character, brother is Goose.
+- "The Tender Trio" : Shaggy, Clipper, and Goose. (and Li'l Dice, Benny).
+  - Attempting to sell gas @ high prices, cops show up, hide back in soccer game.
+- Homeless were sent to the city of god
+- Tender Trio robs motel-> Li'l Dice's idea, he's put on watch for the cops, doesn't show up when it's time to leave
+  - They crash the car into a bar, leave on foot; one stays behind to distract cops
+    - Shorty gives up their location: in the woods.
+  - Cops come to close to them in woods, run back to town when they hear shots fired
+  - Shaggy hides in a friend's place
+- Clipper doesn't want to die a gangster so he comes back to town, heads to the church
+- The motel heist was a bloody one; each hoodlum went down their own path.
+  - Goose was in his (and Rocket's) father's hands, Clipper went back to God, Shaggy stayed with Bernice.
+- After the heist, constant police raids; people were constantly taken to jail, though no one gave up the tender trio.
+  - Apparently there were deaths at the motel.
+- Bernice decides to leave, offers Shaggy to come with.
+- Goose started hanging with Shorty's wife
+  - They sleep together, shorty catches them; Goose dips and the cops take Rocket.
+  - Cops raid Rocket's house, Goose leaves home.
+  - Shorty kills buries his wife alive.
+- Cops see Shaggy as he tries to escape in stolen car, doesn't make it into the car; Bernice dips.
+  - Shaggy gets shot and killed (rip).
+- Li'l Dice -> Li'l Ze, a notorious, respected hoodlum who had a thirst to kill
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
