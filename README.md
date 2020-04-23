@@ -24,6 +24,7 @@
 2. [Literature Review](https://chase4eck.github.io/workshop-/Literature_Review)
 3. [Methodology Paper](https://chase4eck.github.io/workshop-/MethodologyPaper)
 4. [In Class Writing 2](https://chase4eck.github.io/workshop-/InClass2)
+5. [Assignment 4, Part 1: Presentation](https://chase4eck.github.io/workshop-/presentation)
 
 
 
