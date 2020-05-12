@@ -11,9 +11,9 @@ There are only a handful of ways that humanity will eventually (and inevitably) 
 
 Some countries have an especially difficult time defending against epidemics, for a variety of economical and social reasons. For instance, Fiji has had a harsh history when it comes to epidemics, which have had significant impacts on Fiji’s economy and society as a whole. Throughout the 1900's, Fiji has battled a myriad of measles outbreaks. The official governing body of the Oceania region, which includes many islands surrounding Fiji, stated that Fiji lost approximately 33% of its population to measles during the 1900's (ADRC). The turning point in their story is the implementation of the measles vaccine, which arrived in 1982. Since then, this country has been relatively measles-free. Another past epidemic in Fiji was the rapid spread of the Dengue Virus Serotype-3 in 2013. Overall, the mortality rate remained around 6 deaths per 100,000 people. Though this number is not astonishing, the virus seemed to target the working class males, likely due to occupational exposure. Their economy was crippled greatly due to this particular epidemic. 
 
-![Screen Shot 2020-05-12 at 12.36.36 PM](/Users/chase_eck/Desktop/Screen Shot 2020-05-12 at 12.36.36 PM.png)
+![Image](https://user-images.githubusercontent.com/60234990/81742276-da1e8200-946d-11ea-8497-c24308515be7.png)
 
-![Screen Shot 2020-05-12 at 12.39.56 PM](/Users/chase_eck/Desktop/Screen Shot 2020-05-12 at 12.39.56 PM.png)
+![Image](https://user-images.githubusercontent.com/60234990/81742291-ddb20900-946d-11ea-8e4a-7f36a5e16b23.png)
 
 In the first figure above, the ADRC depicts the mortality of the most threatening natural disasters to Fiji; epidemics make up more than 50%. However, the second figure displays how epidemics only make uo 10% of all natural disasters that occur in Fiji. This continues to prove the point that the biggest threat to society in Fiji is due to a viral epidemic.
 
