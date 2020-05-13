@@ -3,8 +3,12 @@
 # Research Proposal
 
 
+May 11th, 2020
+Global Research Institute
+College of William and Mary
+chase4eck@gmail.com
 
-# Cover Letter
+Dear members of the review board,
 
 The problem of disaster risk reduction is certainly a global one, with far-reaching consequences. In particular, Fiji has struggled in the past to defend against a myriad of epidemics. I have created a research proposal aimed to defend against future epidemics, using information from past epidemics as well as Fiji's evolving epidemic-defense plans. My research provides a plan to efficiently intervene with an epidemic, contain it, and disover the best course of action against it. Furthermore, this plan can be used for any future epidemics, as it is a very flexbile plan with much room for change. This problem needs to be considered now. There is no more time. The next deadly virus is on the horizon, and we need to prepare, before our population is greatly diminished. As for funding, I believe business magnate Bill Gates can (and will) provide funding for this research, as explained in the paper.
 
