@@ -3,10 +3,10 @@
 # Research Proposal
 
 
-May 11th, 2020
-Global Research Institute
-College of William and Mary
-chase4eck@gmail.com
+- May 11th, 2020
+- Global Research Institute
+- College of William and Mary
+- chase4eck@gmail.com
 
 Dear members of the review board,
 
